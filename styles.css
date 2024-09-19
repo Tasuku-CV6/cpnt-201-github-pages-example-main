@@ -52,6 +52,6 @@ body {
 
 .card.flipped,
 .card.matched {
-  background-color: #fff;
+  background-color: #dc5d5d;
   color: #333; /* Show icon when flipped or matched */
 }
